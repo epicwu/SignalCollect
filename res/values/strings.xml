@@ -4,5 +4,11 @@
     <string name="app_name">SignalCollect</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="debugInfo">Debug Information</string>
+    <string name="gpsInfo">GPS INFO</string>
+    <string name="noGPS">GPS disabled</string>
+    <string name="initialService">Initialing Service...</string>
+    <string name="runningTime">Running Time</string>
+    <string name="cellphoneModel">cellphoneModel</string>
 
 </resources>
